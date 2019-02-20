@@ -1,0 +1,549 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Augustana College",
+        "Type": "University",
+        "service_type": "Amtrak Bus"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.549778,
+          41.504785
+        ],
+        "type": "Point"
+      },
+      "id": "059bf8b0ed0515f9ea4aa4591c24059f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "UW-Eau Claire",
+        "Type": "University",
+        "service_type": "Amtrak Bus"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.503419,
+          44.796746
+        ],
+        "type": "Point"
+      },
+      "id": "094781fc96a9234255dd76ffaadea123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "UW-LaCrosse",
+        "Type": "University",
+        "service_type": "Long haul"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.231152,
+          43.816052
+        ],
+        "type": "Point"
+      },
+      "id": "2489250a4ed8a2deaa20a54c3b85d7d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "St. Louis University",
+        "Type": "University",
+        "service_type": "Fast and frequent"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.132576,
+          38.623733
+        ],
+        "type": "Point"
+      },
+      "id": "24b1f91879c99a1a1832b7d5a71cab97"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Loras College",
+        "Type": "University",
+        "service_type": "Proposed"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.685043,
+          42.500563
+        ],
+        "type": "Point"
+      },
+      "id": "2923f1814eaea8adf4be17810323a4e4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Michigan State University",
+        "Type": "University",
+        "service_type": "More frequent"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.482172,
+          42.701848
+        ],
+        "type": "Point"
+      },
+      "id": "30380456836cda64561071e42e1411f8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Indiana University",
+        "Type": "University",
+        "service_type": "None"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.513317,
+          39.178438
+        ],
+        "type": "Point"
+      },
+      "id": "3f7894ed583c43de4b3024b3456cdbfe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Northern Illinois University",
+        "Type": "University",
+        "service_type": "None"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.774069,
+          41.934233
+        ],
+        "type": "Point"
+      },
+      "id": "465dd13928838149114336b49d66c900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "University of Iowa",
+        "Type": "University",
+        "service_type": "Proposed"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.5549,
+          41.662696
+        ],
+        "type": "Point"
+      },
+      "id": "49ab02aba6709402285c899a925bcde5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "University of Missouri",
+        "Type": "University",
+        "service_type": "None"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.327737,
+          38.940381
+        ],
+        "type": "Point"
+      },
+      "id": "4a5ea7580372ce86e1ce5cb773116217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "University of Illinois",
+        "Type": "University",
+        "service_type": "More frequent"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.227161,
+          40.101952
+        ],
+        "type": "Point"
+      },
+      "id": "4a9be98e4fbb6b1a28c48f260e364611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "IUPUI",
+        "Type": "University",
+        "service_type": "More frequent"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.176339,
+          39.773883
+        ],
+        "type": "Point"
+      },
+      "id": "527cd01ffd856a1eeab5fdc99f9aad55"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "University of Minnesota",
+        "Type": "University",
+        "service_type": "Long haul"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.227728,
+          44.97399
+        ],
+        "type": "Point"
+      },
+      "id": "5af2582edf98343f1ca725b881eba648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Southern Illinois University",
+        "Type": "University",
+        "service_type": "More frequent"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.222594,
+          37.710021
+        ],
+        "type": "Point"
+      },
+      "id": "6211d90f0bdcbe95f9bddf0fa7ef83ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ohio State University",
+        "Type": "University",
+        "service_type": "None"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.030914,
+          40.01419
+        ],
+        "type": "Point"
+      },
+      "id": "71f759529fc80f64b0ca0e8eab744c42"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Washington University",
+        "Type": "University",
+        "service_type": "Fast and frequent"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.310796,
+          38.648789
+        ],
+        "type": "Point"
+      },
+      "id": "7297542a9d254a14d94c49d83371e73c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Eastern Michigan University",
+        "Type": "University",
+        "service_type": "Fast and frequent"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.627005,
+          42.246085
+        ],
+        "type": "Point"
+      },
+      "id": "81a8e0b621d56d2eb87e584b1f4c8b3e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Eastern Illinois University",
+        "Type": "University",
+        "service_type": "More frequent"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.175151,
+          39.483672
+        ],
+        "type": "Point"
+      },
+      "id": "84bd1c382c8f0476988f28993e02d07c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Iowa State Univ",
+        "Type": "University",
+        "service_type": "None"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.617003,
+          42.029631
+        ],
+        "type": "Point"
+      },
+      "id": "86e101869da81842e52753861b516bbf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Creighton University",
+        "Type": "University",
+        "service_type": "Long haul"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.947192,
+          41.26531
+        ],
+        "type": "Point"
+      },
+      "id": "87470624bd8e9d4b1b70316ef487d955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Western Michigan University",
+        "Type": "University",
+        "service_type": "More frequent"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.615219,
+          42.283178
+        ],
+        "type": "Point"
+      },
+      "id": "92dcbd8f326f49f71ee10a51061a3c91"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "University of Michigan",
+        "Type": "University",
+        "service_type": "Fast and frequent"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.738224,
+          42.278044
+        ],
+        "type": "Point"
+      },
+      "id": "9ba73cbaa426a94fc6d3b03902f3826c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Valparaiso",
+        "Type": "University",
+        "service_type": "Proposed"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.042381,
+          41.463273
+        ],
+        "type": "Point"
+      },
+      "id": "9bcc4ffc3f4e91a9bfe7b335996dd0ad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wayne State University",
+        "Type": "University",
+        "service_type": "Fast and frequent"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.054194,
+          42.351293
+        ],
+        "type": "Point"
+      },
+      "id": "a30a0237b308533485a602a08ab08b0d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Winona State University",
+        "Type": "University",
+        "service_type": "Long haul"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.646503,
+          44.047665
+        ],
+        "type": "Point"
+      },
+      "id": "a34291147ea6d338fbc6cfc463f75260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "University of Wisconsin",
+        "Type": "University",
+        "service_type": "Amtrak Bus"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.412487,
+          43.076592
+        ],
+        "type": "Point"
+      },
+      "id": "ab50745c189812459cbfbcc8ea335ebd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Penn State University",
+        "Type": "University",
+        "service_type": "None"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.859908,
+          40.798213
+        ],
+        "type": "Point"
+      },
+      "id": "b07ceb235d315da4efa8f89f40cff5ab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Notre Dame",
+        "Type": "University",
+        "service_type": "Non-Amtrak"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.235339,
+          41.705572
+        ],
+        "type": "Point"
+      },
+      "id": "cb2e9ddd23dce80b8056b9d9c66748df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "University of Nebraska",
+        "Type": "University",
+        "service_type": "Long haul"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.700476,
+          40.820197
+        ],
+        "type": "Point"
+      },
+      "id": "e76de6dac8bc167ef0ad063c72654c68"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Illinois State University",
+        "Type": "University",
+        "service_type": "More frequent"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.99467,
+          40.512283
+        ],
+        "type": "Point"
+      },
+      "id": "e969393d54a427a457449d9112abf694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "UW-Milwaukee",
+        "Type": "University",
+        "service_type": "Fast and frequent"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.881969,
+          43.078263
+        ],
+        "type": "Point"
+      },
+      "id": "ed3aba73b7a111f5c0f73513a6fa9214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Western Illinois University",
+        "Type": "University",
+        "service_type": "More frequent\n\n\n\n\n"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.685397,
+          40.472665
+        ],
+        "type": "Point"
+      },
+      "id": "f11a2fe768e3de55ab3694103f270861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "UMKC",
+        "Type": "University",
+        "service_type": "More frequent"
+      },
+      "geometry": {
+        "coordinates": [
+          -94.576026,
+          39.033554
+        ],
+        "type": "Point"
+      },
+      "id": "f5020071885f04d236edc98837b6ad69"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Purdue",
+        "Type": "University",
+        "service_type": "More frequent"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.921195,
+          40.423705
+        ],
+        "type": "Point"
+      },
+      "id": "f7c0f79f8563b72c89d65cbb7ec9bbe1"
+    }
+  ],
+  "type": "FeatureCollection"
+}
